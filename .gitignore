@@ -1,0 +1,17 @@
+# виртуальные окружения
+venv/
+__pycache__/
+*.pyc
+
+# настройки среды
+.env
+*.env
+config.py
+
+# системные файлы
+.DS_Store
+Thumbs.db
+
+# папки IDE
+.vscode/
+.idea/
