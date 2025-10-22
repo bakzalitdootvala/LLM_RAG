@@ -6,10 +6,10 @@ This project demonstrates how to combine semantic search and generative AI to bu
 
 Features:
 
--Sentence Embeddings with "all-MiniLM-L6-v2"
--Vector Search using "ChromaDB"
--Simple RAG Pipeline that connects retrieval + reasoning
--Fully local, lightweight, and easy to extend
+1)Sentence Embeddings with "all-MiniLM-L6-v2"
+2)ector Search using "ChromaDB"
+3)Simple RAG Pipeline that connects retrieval + reasoning
+4)Fully local, lightweight, and easy to extend
 
 
 Installation:
