@@ -27,7 +27,7 @@ This project is a minimal, local RAG pipeline. It takes a question, digs up the 
 The dataset is tiny (just 4 sentences for now) to keep things simple and demo-friendly. In a real project, you’d throw in Wikipedia articles, PDFs, or whatever else you want to search through.
 Installation:
 
-Clone the repo and install dependencies:
+## Clone the repo and install dependencies:
 
 
 git clone https://github.com/<your-username>/LLM_RAG.git,
@@ -38,9 +38,10 @@ pip install -r requirements.txt,
 python rag.py
 
 
-Future Ideas: integrate a local LLM (like Flan-T5 or Mistral) for generative responses, add document loaders and chunking for long text files, connect to a web or chatbot frontend
+## Future Ideas
+Integrate a local LLM (like Flan-T5 or Mistral) for generative responses, add document loaders and chunking for long text files, connect to a web or chatbot frontend
 
-Tech Stack:
+## Tech Stack
 Python 3.10+,
 SentenceTransformers,
 ChromaDB,
